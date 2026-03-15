@@ -54,8 +54,6 @@ Este repositorio es mi grimorio: aquí guardo proyectos, experimentos y retazos 
 - **Proyecto 1**: Un pequeño hechizo en Java/Kotlin que transforma ideas en aplicaciones.
 - **Proyecto 2**: Un experimento multiplataforma donde los bugs se convierten en lecciones.
 
-> *(Actualiza esta sección con tus repositorios favoritos cuando quieras.)*
-
 ---
 
 ## 📫 Contáctame (si te atreves)
